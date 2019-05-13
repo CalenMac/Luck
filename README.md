@@ -1,2 +1,2 @@
-# Luck1
+# Luck
 Number simulator for guessing game
